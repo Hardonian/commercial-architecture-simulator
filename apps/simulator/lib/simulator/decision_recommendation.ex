@@ -9,9 +9,9 @@ defmodule Simulator.DecisionRecommendation do
   schema "decision_recommendations" do
     belongs_to :scenario, Simulator.Scenario
     field :recommended_rollout_strategy, :string
-    field :rationale, :text
+    field :rationale, :string
     field :expected_roi, :decimal
-    field :risk_mitigation_plan, :text
+    field :risk_mitigation_plan, :string
 
     timestamps()
   end

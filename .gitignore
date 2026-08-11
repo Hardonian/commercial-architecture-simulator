@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+!.env.template
+node_modules/
+dist/
+build/
+target/
+*.log
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.ruff_cache/

@@ -1,5 +1,9 @@
 # Commercial Architecture Simulator
 
+<!-- BEGIN: REPO HERO -->
+![commercial-architecture-simulator — hero generated locally on the GPU stack](assets/repo-hero.png)
+<!-- END: REPO HERO -->
+
 An Elixir/Phoenix simulator that models commercial/enterprise system topologies for architecture analysis and comparison.
 
 ## Stack
